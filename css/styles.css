@@ -1,0 +1,22 @@
+body {
+    margin: 10px 50px;
+    background-color:  #83c5be;
+    text-size-adjust: 25px;
+    text-color: #ffffff ;
+    
+  
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+
+  p {
+      background-color: #e29578;
+      text-align:center;
+      border:solid 2px #ffffff;
+      padding: 10px 20px;
+      border-radius: 15px;
+  }
+
+  body
