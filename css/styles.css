@@ -1,20 +1,19 @@
 body {
     margin: 10px 50px;
-    background-color:  #e9ecef;
+    background-color:  rgb(255, 255, 149);
     text-size-adjust: 25px;
-    color: #ffffff ;
-    
-  
+    color: #000000 ;
   }
+
   .starter-template {
     padding: 4rem 2.5rem;
     text-align: center;
   }
 
   p {
-      background-color:rgb(0, 0, 0);
+      background-color:#00afb9;
       text-align:center;
-      border:solid 2px #ffffff;
+      border:solid 2px #dee2ff;
       padding: 10px 20px;
       border-radius: 15px;
   }
@@ -23,9 +22,15 @@ h1 {
     color:black
 }
   .box{
-background-color: rgb(178, 217, 240);
+background-color: #f07167(178, 217, 240);
   }
 
   h2 {
       color: black
   }
+
+  p{ color:black;}
+
+  body {
+    font-family: 'Amatic SC';font-size: 22px;
+}
