@@ -34,3 +34,9 @@ background-color: #f07167(178, 217, 240);
   body {
     font-family: 'Amatic SC';font-size: 22px;
 }
+.colorful{
+  
+    background-image:linear-gradient(to right,rgb(245, 155, 155) , rgb(255, 255, 126));
+  };
+
+
